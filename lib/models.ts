@@ -35,7 +35,7 @@ export const models: Model[] = [
     accent: "#F59E0B",
     eta: "Q3 2026",
     github: "https://github.com/calebnewtonusc/podium",
-    url: "https://podium-ai.vercel.app",
+    url: "https://podium-tawny.vercel.app",
     tags: ["Kaggle", "AutoML", "Competition"],
   },
   {
@@ -87,7 +87,7 @@ export const models: Model[] = [
     accent: "#8B5CF6",
     eta: "Q4 2026",
     github: "https://github.com/calebnewtonusc/evalforge",
-    url: "https://evalforge.vercel.app",
+    url: "https://evalforge-five.vercel.app",
     tags: ["Evaluation", "Benchmarks", "Anti-Goodhart"],
   },
   {
@@ -191,7 +191,7 @@ export const models: Model[] = [
     accent: "#A16207",
     eta: "Q1 2027",
     github: "https://github.com/calebnewtonusc/legacybridge",
-    url: "https://legacybridge.vercel.app",
+    url: "https://legacybridge-three.vercel.app",
     tags: ["COBOL", "Modernization", "Enterprise"],
   },
   {

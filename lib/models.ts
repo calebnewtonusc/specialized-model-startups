@@ -21,7 +21,7 @@ export const models: Model[] = [
       "Universal voice-to-3D workflow AI. Executes expert-level commands across Blender, Maya, Cinema 4D, Houdini, Unreal Engine, and more. First model trained on execution-verified 3D workflows with a Universal DSL.",
     accent: "#7C3AED",
     eta: "Q2 2026",
-    github: "https://github.com/calebnewtonusc/nalana-dataset",
+    github: "https://github.com/calebnewtonusc/nalana",
     url: "https://nalana.io",
     tags: ["3D Creation", "Voice AI", "Multi-Platform"],
   },
